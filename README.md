@@ -51,37 +51,45 @@ screening times. The app was tested on mobile devices.
  
 ### The repertoire of movies any user can browse:
 
+![image](https://github.com/pattusdev/Cinema-booking-system23738/assets/34842845/85af0a72-6be5-470c-83c5-789c916266a4)
 
  
 ### The next step is to select a time:
 
+![image](https://github.com/pattusdev/Cinema-booking-system23738/assets/34842845/4fca58ef-5501-489c-9b17-fa7841c760bc)
 
  
  
 ### Final reservation:
 
+![image](https://github.com/pattusdev/Cinema-booking-system23738/assets/34842845/248bb9f4-1ff1-409c-bb1a-3c545cbe7c1b)
 
 
 
 ### Admin can do CRUD operations on movies:
 
+![image](https://github.com/pattusdev/Cinema-booking-system23738/assets/34842845/1af46096-bfa3-48b0-a173-5cbf3b542def)
 
 
 ### And repertoires:
 
+![image](https://github.com/pattusdev/Cinema-booking-system23738/assets/34842845/e9f4ba31-08f4-40bb-89c3-141bbd18d885)
 
 
 
 ### Menu for user:
 
+![image](https://github.com/pattusdev/Cinema-booking-system23738/assets/34842845/28bf63e5-161e-463d-88c5-a91c991226b4)
 
 
 ### Menu for admin:
 
+![image](https://github.com/pattusdev/Cinema-booking-system23738/assets/34842845/d037d403-52a9-4fbf-a90a-ecf6e822f459)
 
 
 ### Responsiveness on mobile devices:
 
+![image](https://github.com/pattusdev/Cinema-booking-system23738/assets/34842845/b7f86e16-eca0-41be-be9a-8c41a6344468)
 
 
 User can swipe through the application.
