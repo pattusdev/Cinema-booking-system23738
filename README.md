@@ -1,7 +1,12 @@
 # Cinema Project
 
-This application is available on heroku:
+This application is available on Local Server:
 http://185.193.67.121:8080/
+
+# Credentials
+##For Admin
+username: pattus
+password: admin123
 </br>
 
 ## Contents
