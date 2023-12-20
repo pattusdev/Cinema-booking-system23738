@@ -4,8 +4,12 @@ This application is available on Local Server:
 http://185.193.67.121:8080/
 
 # Credentials
-##For Admin
+##  For Admin
 username: pattus
+password: admin123
+
+## For User
+username: rwego
 password: admin123
 </br>
 
