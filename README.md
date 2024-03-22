@@ -44,15 +44,15 @@ The goal of this project was to increase my programming expertise and apply it t
 
 
 ## Functions
-- Everyone can browse the application without logging into the system.
-- Additional menu with more options for admin who can add, edit and delete movies.
-- Admin can add, edit and delete the day and time when a particular movie will be playing in the cinema.
-- Non logged in users can register and login to the application.
-- Logged in users can reserveSeatConfiguration seats.
-- Seats validation: user cannot reserveSeatConfiguration the entire cinema hall or leave a seat empty.
-- User registration validation: each field must be entered correctly.
-- User must confirm his registration to the e-mail adress he provided.
-- Seats are divided into reserved(green) and unreserved(red).
+- Everyone can view the application without having to log in.
+- More options on a menu for the admin, who may add, edit, and remove movies.
+- The day and hour that a specific movie will be shown in theaters can be added, edited, or deleted by the administrator.
+- Users who are not logged in can signup and access the application.
+- SeatConfiguration seats can be reserved by logged-in users.
+- Validation of seats: The user is not permitted to reserve the full theater or leave a seat unoccupied.
+- Validation of user registration: every field needs to be filled out accurately.
+- The user's supplied email address must get a confirmation of his registration.
+- There are two categories of seats: reserved (green) and unreserved (red).
 
  
 ### The repertoire of movies any user can browse:
