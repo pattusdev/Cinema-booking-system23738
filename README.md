@@ -20,10 +20,7 @@ password: admin123
 * [Functions](#functions)
 
 ## About
-This project aimed to broaden the knowledge of programming and the use of my knowledge in practice. The main goal was to create a modern application that is functional and
-fault-tolerant. This application is used to book seats in a cinema. Users can browse the repertoire, select a day and time, and then reserveSeatConfiguration seats. The seats are divided into
-already reserved and unreserved. All data is stored in the database. Users can register and log into the system. Administrator is able to do CRUD operations on movies and
-screening times. The app was tested on mobile devices.
+The goal of this project was to increase my programming expertise and apply it to real-world situations. The primary objective was to develop a fault-tolerant, useful, and contemporary application. You use this app to reserve a seat at a movie theater. After perusing the repertoire and choosing a time and day, users can reserveSeatConfiguration seats. There are two categories for the seats: reserved and open. The database contains all of the data. Users are able to sign up and access the system. The administrator can perform CRUD actions on movies and screening schedules. Mobile devices were used for testing the software.
 
 ## Changelog
 15 December 2023:
